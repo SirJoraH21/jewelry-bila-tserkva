@@ -1,9 +1,13 @@
 import './App.css';
+import Header from './components/Header/Header';
+import Section from './components/sections/Section';
 
 function App() {
   return (
     <div className="App">
-      <h1>Here the road begins</h1>
+      <Header />
+      <Section />
+      {/* <img src="/images/1.jpg" alt="Ring"/> */}
     </div>
   );
 }
