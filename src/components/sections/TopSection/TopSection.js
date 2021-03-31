@@ -18,7 +18,7 @@ const TopSection = (props) => {
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
             ad minim veniam, quis nostrud exercitatio.
           </h6>
-          <a className="shop-link">Shop now! </a>
+          <a href='#' className="shop-link">Shop now! </a>
         </div>
       </div>
     </section>
